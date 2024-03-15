@@ -1,3 +1,3 @@
 # Our next event
 
-<a href="https://web.facebook.com/CoffeeCarsSA">![Event Poster](poster.jpeg)</a>
+<a href="https://qkt.io/BeautyThings">![Event Poster](poster.jpeg)</a>
