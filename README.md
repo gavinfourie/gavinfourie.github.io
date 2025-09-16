@@ -2,7 +2,7 @@
 
 ![Event Poster](newposter.jpeg)
 
-### Links to more info
+### More info
 
 #### Event details
 <a href="https://facebook.com/events/s/things-of-beauty-2025/723472460212063/">Facebook Event Page</a>
