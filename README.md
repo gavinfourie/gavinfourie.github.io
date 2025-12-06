@@ -28,6 +28,10 @@ All of this is available through low-cost entry tickets - giving you the chance 
 
 Simply answer the skill-based question correctly, and you could be our next winner!
 
+## Important Links
+
+### <a href="https://gavinfourie.github.io/termsandconditions.html">View our Terms and Conditions</a>
+
 ### <a href="https://gavinfourie.github.io/prizesuppliers.html">Become a Prize Supplier</a>
 
 ### <a href="https://gavinfourie.github.io/refundpolicy.html">View our Refund Policy</a>
