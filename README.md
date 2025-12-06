@@ -1,15 +1,33 @@
-# **Powered by COFFEE & CARS SA**
-One of the Western Cape’s most dynamic automotive lifestyle communities - uniting car and bike enthusiasts across every category, from classics to exotics.
-  
-Since launching in 2021, Coffee & Cars SA has hosted **13 premium events**, drawing **thousands of attendees** and generating **exceptional social engagement**.
+## South Africa’s Newest Automotive Competition Platform
 
-**Community Reach (100% Organic):**
-  + 9,000`+` followers across Facebook, Instagram & TikTok
-  + 12,800`+` TikTok likes
-  + 174,000`+` event-build-up views
-  + Connected to 800`+` Facebook groups - reaching millions of enthusiasts
+The Lucky Garage is South Africa’s newest app-based, *skill*-based competition platform, proudly developed by Coffee & Cars SA.
+Built for motoring enthusiasts, it offers exciting opportunities to win premium automotive prizes through competitions where **skill - not luck alone - makes the difference**.
+Simple, transparent and community-focused, The Lucky Garage brings the thrill of winning directly to your fingertips.
 
-This thriving ecosystem is the foundation and launchpad for **THE LUCKY GARAGE** - the next evolution in South Africa’s automotive experience.
+On the vehicle front, we’ll be offering an exciting range of prizes, including:
+
+- Iconic **classics**
+
+- Sought-after **modern classics**
+
+- High-demand **newer cars and motorbikes**
+
+In addition to vehicles, we’re also bringing you a wide selection of premium automotive prizes such as:
+
+- Custom **vehicle wraps**
+
+- High-quality **sound systems**
+
+- Stylish **mag wheel sets**
+
+- Premium **tyre sets**
+
+- Professional **detailing products and services**, and more.
+
+All of this is available through low-cost entry tickets - giving you the chance to win incredible cars, motorbikes and top-tier automotive accessories and services at a fraction of their value.
+
+Simply answer the skill-based question correctly, and you could be our next winner!
+
 
 #### Links to our socials
 <a href="https://www.facebook.com/LuckyGarageSA">Facebook</a>
