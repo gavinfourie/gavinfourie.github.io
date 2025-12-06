@@ -1,8 +1,11 @@
-**THE LUCKY GARAGE (PTY) LTD**
-**Reg No 2025/876149/07**
+**THE LUCKY GARAGE (PTY) LTD, Reg No 2025/876149/07**
+
 **33 Miller Road**
+
 **Gordon’s Bay**
+
 **Cape Town**
+
 **South Africa, 7140**
 
 **Email:** support@theluckygarage.co.za
