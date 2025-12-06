@@ -1,6 +1,8 @@
-<a href="https://gavinfourie.github.io/prizesuppliers.html"><h3>Become a Prize Supplier</h3></a>
+<a href="https://gavinfourie.github.io/prizesuppliers.html"><h3>Click here to become a Prize Supplier</h3></a>
 
-<a href="https://gavinfourie.github.io/refundpolicy.html"><h3>Competition Cancelled? View our Refund Policy</h3></a>
+<a href="https://gavinfourie.github.io/refundpolicy.html"><h3>Competition Cancelled? Click here to view our Refund Policy</h3></a>
+
+<a href="https://gavinfourie.github.io/contactus.html"><h3>Have any Questions? Click here to Contact Us</h3></a>
 
 ## South Africa’s Newest Automotive Competition Platform
 
