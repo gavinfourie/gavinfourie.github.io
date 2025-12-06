@@ -28,11 +28,11 @@ All of this is available through low-cost entry tickets - giving you the chance 
 
 Simply answer the skill-based question correctly, and you could be our next winner!
 
-###<a href="https://gavinfourie.github.io/prizesuppliers.html">Become a Prize Supplier</a>
+### <a href="https://gavinfourie.github.io/prizesuppliers.html">Become a Prize Supplier</a>
 
-###<a href="https://gavinfourie.github.io/refundpolicy.html">Click here to view our Refund Policy</a>
+### <a href="https://gavinfourie.github.io/refundpolicy.html">Click here to view our Refund Policy</a>
 
-###<a href="https://gavinfourie.github.io/contactus.html"><h3>Have any Questions? Click here to Contact Us</a>
+### <a href="https://gavinfourie.github.io/contactus.html">Have any Questions? Click here to Contact Us</a>
 
 #### Links to our socials
 <a href="https://www.facebook.com/LuckyGarageSA">Facebook</a>
