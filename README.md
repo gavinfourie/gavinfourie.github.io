@@ -1,9 +1,3 @@
-<a href="https://gavinfourie.github.io/prizesuppliers.html"><h3>Click here to become a Prize Supplier</h3></a>
-
-<a href="https://gavinfourie.github.io/refundpolicy.html"><h3>Competition Cancelled? Click here to view our Refund Policy</h3></a>
-
-<a href="https://gavinfourie.github.io/contactus.html"><h3>Have any Questions? Click here to Contact Us</h3></a>
-
 ## South Africa’s Newest Automotive Competition Platform
 
 The Lucky Garage is South Africa’s newest app-based, *skill*-based competition platform, proudly developed by Coffee & Cars SA.
@@ -34,6 +28,11 @@ All of this is available through low-cost entry tickets - giving you the chance 
 
 Simply answer the skill-based question correctly, and you could be our next winner!
 
+###<a href="https://gavinfourie.github.io/prizesuppliers.html">Become a Prize Supplier</a>
+
+###<a href="https://gavinfourie.github.io/refundpolicy.html">Click here to view our Refund Policy</a>
+
+###<a href="https://gavinfourie.github.io/contactus.html"><h3>Have any Questions? Click here to Contact Us</a>
 
 #### Links to our socials
 <a href="https://www.facebook.com/LuckyGarageSA">Facebook</a>
