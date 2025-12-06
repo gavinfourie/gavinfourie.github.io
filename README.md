@@ -30,7 +30,7 @@ Simply answer the skill-based question correctly, and you could be our next winn
 
 ### <a href="https://gavinfourie.github.io/prizesuppliers.html">Become a Prize Supplier</a>
 
-### <a href="https://gavinfourie.github.io/refundpolicy.html">Click here to view our Refund Policy</a>
+### <a href="https://gavinfourie.github.io/refundpolicy.html">View our Refund Policy</a>
 
 ### <a href="https://gavinfourie.github.io/contactus.html">Have any Questions? Click here to Contact Us</a>
 
