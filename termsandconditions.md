@@ -1,3 +1,5 @@
+### <a href="https://gavinfourie.github.io/">Go Home</a>
+
 ## COMPETITIONS TERMS & CONDITIONS
 
 **1. Promoter Details**
