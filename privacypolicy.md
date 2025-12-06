@@ -1,3 +1,5 @@
+### <a href="https://gavinfourie.github.io/">Go Home</a>
+
 ## APP PRIVACY POLICY
 
 Issued by The Lucky Garage (Pty) Ltd
