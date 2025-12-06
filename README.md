@@ -38,7 +38,9 @@ Simply answer the skill-based question correctly, and you could be our next winn
 
 ### <a href="https://gavinfourie.github.io/prizesuppliers.html">Become a Prize Supplier</a>
 
-### <a href="https://gavinfourie.github.io/contactus.html">Have any Questions? Click here to Contact Us</a>
+### <a href="https://gavinfourie.github.io/faqs.html">Have any Questions? View our FAQs</a>
+
+### <a href="https://gavinfourie.github.io/contactus.html">Want to reach out? Click here to Contact Us</a>
 
 #### Links to our socials
 <a href="https://www.facebook.com/LuckyGarageSA">Facebook</a>
