@@ -10,3 +10,9 @@ Cape Town
 **Whatsapp/Call:** Anton Fourie - 062 336 3093
 
 **Links to our social:**
+
+<a href="https://www.facebook.com/LuckyGarageSA">Facebook</a>
+
+<a href="https://www.instagram.com/theluckygarage/">Instagram</a>
+
+<a href="https://www.tiktok.com/@the.lucky.garage">Tiktok</a>
