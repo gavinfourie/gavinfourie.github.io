@@ -1,3 +1,5 @@
+### <a href="https://gavinfourie.github.io/">Go Home</a>
+
 ## Refund Policy for Cancelled Competitions
 
 If The Lucky Garage cancels a competition for any reason, the following refund policy will apply to ensure fairness, transparency and customer protection:
