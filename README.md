@@ -1,6 +1,4 @@
-<a href="https://gavinfourie.github.io/prizesuppliers.html">
-  <h3>Become a Prize Supplier</h3>
-</a>
+<a href="https://gavinfourie.github.io/prizesuppliers.html"><h3>Become a Prize Supplier</h3></a>
 
 ## South Africa’s Newest Automotive Competition Platform
 
